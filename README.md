@@ -15,6 +15,19 @@ Notes:
 - Use your AI Router API key, not an OpenAI platform key.
 - Keep the `/v1` suffix in the base URL.
 
+## Quick Links
+
+- Setup examples: https://github.com/airouter-dev/ai-router-openai-compatible-examples
+- Python SDK: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openai-python-sdk.md
+- Node.js SDK: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openai-node-sdk.md
+- Cursor: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/cursor.md
+- Continue: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/continue.md
+- LiteLLM: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/litellm.md
+- Open WebUI: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openwebui.md
+- New-user credit: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/new-user-credit.md
+- Localized landing pages: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/localized-landing-pages.md
+- BYOK smoke-test checklist: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/byok-smoke-test-checklist.md
+
 Docs:
 
 - Python SDK: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openai-python-sdk.md
