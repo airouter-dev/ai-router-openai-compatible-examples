@@ -15,6 +15,16 @@ Notes:
 - Use your AI Router API key, not an OpenAI platform key.
 - Keep the `/v1` suffix in the base URL.
 
+Docs:
+
+- Python SDK: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openai-python-sdk.md
+- Node.js SDK: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openai-node-sdk.md
+- Cursor: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/cursor.md
+- Continue: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/continue.md
+- LiteLLM: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/litellm.md
+- Open WebUI: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openwebui.md
+- New-user credit: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/new-user-credit.md
+
 ## cURL
 
 ```bash
