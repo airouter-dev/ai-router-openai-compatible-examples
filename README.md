@@ -25,6 +25,7 @@ Docs:
 - Open WebUI: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/openwebui.md
 - New-user credit: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/new-user-credit.md
 - Localized landing pages: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/localized-landing-pages.md
+- BYOK smoke-test checklist: https://github.com/airouter-dev/ai-router-openai-compatible-examples/blob/main/docs/byok-smoke-test-checklist.md
 
 ## cURL
 
